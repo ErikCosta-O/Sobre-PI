@@ -62,12 +62,12 @@ nav a :hover{
 /*---------------------------------------*/
 /*footer do codepen*/
 .footer-distributed {
-  margin-top: 5vh;
+  margin-top: 11.2vh;
   background: #1f1f1f; /* fallback for old browsers */
   box-sizing: border-box;
   width: 100%;
   text-align: left;
-  padding: 45px 50px;
+  padding: 20px 50px;
 }
 .footer-distributed .footer-left p {
   color: #8f9296;
